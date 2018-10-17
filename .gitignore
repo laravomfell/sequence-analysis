@@ -1,0 +1,24 @@
+# ignore specific folders
+/presentation/
+/Data/
+/Paper1/
+/Paper2/
+/retiredcode/
+
+# History files
+*.Rhistory
+*.Rapp.history
+
+# Session Data files
+*.RData
+
+# rmd file for now
+*.Rmd
+
+# also the pdfs
+*.pdf
+
+# knitr and R markdown default cache directories
+**/*_cache/
+**/cache/
+**/*_files/
