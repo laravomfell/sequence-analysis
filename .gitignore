@@ -18,6 +18,9 @@
 # also the pdfs
 *.pdf
 
+# and the stata files
+*.dta
+
 # knitr and R markdown default cache directories
 **/*_cache/
 **/cache/
