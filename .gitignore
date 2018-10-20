@@ -18,9 +18,13 @@
 # also the pdfs
 *.pdf
 
+
 # and the stata files
 *.dta
 **/sharewX_rel6-0-0_gv_job_episodes_panel.dta
+
+# and the code files
+*.csv
 
 # knitr and R markdown default cache directories
 **/*_cache/
