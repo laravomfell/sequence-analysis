@@ -15,10 +15,6 @@
 # rmd file for now
 *.Rmd
 
-# also the pdfs
-*.pdf
-
-
 # and the stata files
 *.dta
 **/sharewX_rel6-0-0_gv_job_episodes_panel.dta
